@@ -25,7 +25,7 @@ Find out how Swagger can help you design and document your APIs at scale.
 
 </div>
 
-[assignment-week10](https://splendid-sandals-dove.cyclic.app/)
+[assignment-week10](https://fair-jade-lemming-suit.cyclic.app/)
 
 <h1>...</h1>
 
